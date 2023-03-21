@@ -60,3 +60,7 @@ Feel free to use this repository as a starting point or to start from scratch. I
 Please also include a description how to set up and reproduce the environment required to run the solution.
 
 Finally, email join@weave.bio with 1) the link to your solution repo and 2) your resume
+
+## Solution
+set the parameters to neo4j in the def connection of the operations.py
+Execute the py file with the neo4j started
